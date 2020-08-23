@@ -1,0 +1,9 @@
+torch==1.2.0
+matplotlib==3.1.2
+numpy==1.19.0
+torchvision==0.4.0+cu92
+scipy==1.4.1
+cleanlab==0.1.0
+focal_loss==0.0.6
+Pillow==7.2.0
+scikit_learn==0.23.2
