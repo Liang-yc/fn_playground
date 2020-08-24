@@ -14,4 +14,4 @@ TODO
 
 ## Envirenment
 -----
-Test on Windows10, Python 3.6 with GTX 1660. Best accuracy is 96.44%(epoch 562). log file can be found in `models` dir.
+Test on Windows10, Python 3.6 with GTX 1660. Best accuracy is 96.44%(epoch 562). log file can be found in `models` dir. Model files can be downloaded from [Google Cloud](https://drive.google.com/drive/folders/1_JaYkBC-7KmewVHy5XFPzmJ0YnKziRIF?usp=sharing)
