@@ -2,13 +2,13 @@
 
 ## Background
 -----
-`Fashion-MNIST` is a dataset of [Zalando](https://jobs.zalando.com/tech/)'s article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. We intend `Fashion-MNIST` to serve as a direct **drop-in replacement** for the original [MNIST dataset](http://yann.lecun.com/exdb/mnist/) for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
+`Fashion-MNIST` is a dataset of [Zalando](https://jobs.zalando.com/tech/)'s article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.  `Fashion-MNIST` is intended to serve as a direct **drop-in replacement** for the original [MNIST dataset](http://yann.lecun.com/exdb/mnist/) for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
 
-In this repo, I try to do some experiments on `Fashion-MNIST` dataset.
+In this repo, I try to do some experiments with `Fashion-MNIST` dataset.
 ## Training Schedule
 -----
 1.  Standard preprocessing (mean/std subtraction/division) and data augment(Rand augment, random crops,horizontal flips, random erasing);
-2.  Backbone: wide resnet 40-4;
+2.  Backbone: wide-resnet 40-4;
 3.  Learning rate schedule: `CosineAnnealingLR`;
 4.  Other tricks: Label smoothing, Exponential Moving Average, and so on.
 ## Usage
