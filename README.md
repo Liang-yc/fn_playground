@@ -15,8 +15,6 @@ In this repo, I try to do some experiments on `Fashion-MNIST` dataset.
 -----
 
 1.run ```pip install -r requirements.txt```;<br>
-2.run ```python fn_fmix_40_4_gn_ws_learning.py```;<br>
+2.run ```python fn_fmix_40_4_gn_ws_learning.py```;(Test on Windows10, Python 3.6 with GTX 1660. Best accuracy is 96.44%(epoch 562). log file can be found in `models` dir. Model files can be downloaded from [Google Cloud](https://drive.google.com/drive/folders/1_JaYkBC-7KmewVHy5XFPzmJ0YnKziRIF?usp=sharing))<br>
+2.run ```python fn_fmix_40_4_bn_mish_ws_gem.py```;(Test on `Google Colab`. Best accuracy is 96.69%(epoch 881). log file can be found in `models` dir. Model files can be downloaded from [Google Cloud](https://drive.google.com/drive/folders/1a6ZChTZJERsJp98mWy37kTHhRGOgT0mO?usp=sharing))<br>
 
-## Envirenment
------
-Test on Windows10, Python 3.6 with GTX 1660. Best accuracy is 96.44%(epoch 562). log file can be found in `models` dir. Model files can be downloaded from [Google Cloud](https://drive.google.com/drive/folders/1_JaYkBC-7KmewVHy5XFPzmJ0YnKziRIF?usp=sharing).
