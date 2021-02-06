@@ -17,7 +17,7 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 import torch
 import matplotlib.pyplot as plt
 
-dir_path = './efn_model/fn_fmix_40_4_bn_mish_ws_gem4'
+dir_path = './models/fn_fmix_40_4_bn_mish_ws_gem4'
 save_path = dir_path+'/fn_fmix_40_4_bn_mish_ws_gem.pkl'
 best_path = dir_path+'/best_'+'fn_fmix_40_4_bn_mish_ws_gem.pkl'
 data_path = './data'
