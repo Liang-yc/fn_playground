@@ -22,9 +22,9 @@ In this repo, I try to do some experiments with `Fashion-MNIST` dataset.
 <table>
 <thead><tr><th>script name</th><th>dataset</th><th>best test accuracy</th><th>weight files</th></tr><th>comments</th></tr></thead>
         <tr>
-            <td><a href="">```python fn_fmix_40_4_gn_ws_learning.py```</a></td>
-            <td><a href="">`Fashion-MNIST`</a></td>
-            <td><a href="">`96.44%(epoch 562)</a></td>
+            <td><a href="">python fn_fmix_40_4_gn_ws_learning.py</a></td>
+            <td><a href="">Fashion-MNIST</a></td>
+            <td><a href="">96.44%(epoch 562)</a></td>
             <td><a href="https://drive.google.com/drive/folders/1JfyBisN1kubm2rC_hHblai8MdNWkZxHU?usp=sharing">Google Cloud</a></td>
   
         </tr>
