@@ -22,11 +22,24 @@ In this repo, I try to do some experiments with `Fashion-MNIST` dataset.
 <table>
 <thead><tr><th>script name</th><th>dataset</th><th>best test accuracy</th><th>weight files</th></tr><th>comments</th></tr></thead>
         <tr>
-            <td><a href="">python fn_fmix_40_4_gn_ws_learning.py</a></td>
+            <td><a href="https://github.com/Liang-yc/fn_playground/blob/master/fn_fmix_40_4_gn_ws_learning.py">fn_fmix_40_4_gn_ws_learning.py</a></td>
             <td><a >Fashion-MNIST</a></td>
             <td><a >96.44%(epoch 562)</a></td>
             <td><a href="https://drive.google.com/drive/folders/1JfyBisN1kubm2rC_hHblai8MdNWkZxHU?usp=sharing">Google Cloud</a></td>
-  
         </tr>
 
+        <tr>
+            <td><a href="https://github.com/Liang-yc/fn_playground/blob/master/fn_fmix_40_4_bn_mish_ws_gem.py">fn_fmix_40_4_bn_mish_ws_gem.py</a></td>
+            <td><a >Fashion-MNIST</a></td>
+            <td><a >96.69%(epoch 881)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1a6ZChTZJERsJp98mWy37kTHhRGOgT0mO?usp=sharing">Google Cloud</a></td>
+        </tr>
+        
+        
+                <tr>
+            <td><a href="https://github.com/Liang-yc/fn_playground/blob/master/fn_fmix_40_4_bn_mish_ws_gem.py">python fn_fmix_40_4_gn_ws_learning.py</a></td>
+            <td><a >Cifar-10</a></td>
+            <td><a >98.03%(epoch 864)</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1BUYrTWH7_DGAGFSRdI7NLFmDMW5W716Q?usp=sharing">Google Cloud</a></td>
+        </tr>
 </table>
