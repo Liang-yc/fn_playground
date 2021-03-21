@@ -19,7 +19,7 @@ In this repo, I try to do some experiments with `Fashion-MNIST` dataset.
 2.run ```python fn_fmix_40_4_gn_ws_learning.py```;(Test on Windows10, Python 3.6 with GTX 1660. Best `Fashion-MNIST` test accuracy is 96.44%(epoch 562). log file `fn_fmix_40_4_gn_ws_600.txt` can be found in `models` dir. Model files can be downloaded from [Google Cloud](https://drive.google.com/drive/folders/1JfyBisN1kubm2rC_hHblai8MdNWkZxHU?usp=sharing))<br><br>
 3.run ```python fn_fmix_40_4_bn_mish_ws_gem.py```;(Test on `Google Colab`. Best `Fashion-MNIST` test accuracy is 96.69%(epoch 881). log file `fn_fmix_40_4_bn_mish_ws_gem.txt` can be found in `models` dir. Model files can be downloaded from [Google Cloud](https://drive.google.com/drive/folders/1a6ZChTZJERsJp98mWy37kTHhRGOgT0mO?usp=sharing))<br><br>
 4.run ```kaggle_cifar10_fmix_40_4_bn_mish_ws_gem.py```;(Test on `kaggle`. Best `Cifar-10` test accuracy is 98.03%(epoch 864). log file `cifar10_fmix_40_4_bn_mish_ws_gem.py.txt` can be found in `models` dir. Model files can be downloaded from [Google Cloud](https://drive.google.com/drive/folders/1BUYrTWH7_DGAGFSRdI7NLFmDMW5W716Q?usp=sharing))<br><br>
-<table>
+<table  width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
 <thead><tr><th>script name</th><th>dataset</th><th>best test accuracy</th><th>weight files</th></tr><th>comments</th></tr></thead>
         <tr>
             <td><a href="https://github.com/Liang-yc/fn_playground/blob/master/fn_fmix_40_4_gn_ws_learning.py">fn_fmix_40_4_gn_ws_learning.py</a></td>
@@ -36,7 +36,7 @@ In this repo, I try to do some experiments with `Fashion-MNIST` dataset.
         </tr>
         
         
-                <tr>
+         <tr>
             <td><a href="https://github.com/Liang-yc/fn_playground/blob/master/fn_fmix_40_4_bn_mish_ws_gem.py">python fn_fmix_40_4_gn_ws_learning.py</a></td>
             <td><a >Cifar-10</a></td>
             <td><a >98.03%(epoch 864)</a></td>
