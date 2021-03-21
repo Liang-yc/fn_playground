@@ -25,7 +25,7 @@ In this repo, I try to do some experiments with `Fashion-MNIST` dataset.
             <td><a href="">```python fn_fmix_40_4_gn_ws_learning.py```</a></td>
             <td><a href="">`Fashion-MNIST`</a></td>
             <td><a href="">`96.44%(epoch 562)</a></td>
-            <td><a href="">[Google Cloud](https://drive.google.com/drive/folders/1JfyBisN1kubm2rC_hHblai8MdNWkZxHU?usp=sharing))</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1JfyBisN1kubm2rC_hHblai8MdNWkZxHU?usp=sharing">Google Cloud</a></td>
   
         </tr>
 
