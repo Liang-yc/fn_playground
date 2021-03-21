@@ -18,7 +18,7 @@ In this repo, I try to do some experiments with `Fashion-MNIST` dataset.
 1.run ```pip install -r requirements.txt```;<br><br>
 2.choose a python script to run.<br><br>
 <table  width="100%"  style="table-layout:fixed;word-break: break-all;  word-wrap:break-word;">
-<thead><tr><th>script name</th><th>dataset</th><th>best test accuracy</th><th>weight files</th></tr><th>comments</th></tr></thead>
+<thead><tr><th>script name</th><th>dataset</th><th>best test accuracy</th><th>weight files</th></tr></thead>
         <tr>
             <td><a href="https://github.com/Liang-yc/fn_playground/blob/master/fn_fmix_40_4_gn_ws_learning.py">fn_fmix_40_4_gn_ws_learning.py</a></td>
             <td><a >Fashion-MNIST</a></td>
