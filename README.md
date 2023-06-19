@@ -37,4 +37,11 @@ In this repo, I try to do some experiments with `Fashion-MNIST` dataset. (I do s
             <td><a >98.03%(epoch 864)</a></td>
             <td><a href="https://drive.google.com/drive/folders/1BUYrTWH7_DGAGFSRdI7NLFmDMW5W716Q?usp=sharing">Google Cloud</a></td>
         </tr>
+          <tr>
+            <td><a href="https://github.com/Liang-yc/fn_playground/blob/master/fn_96_74.py">fn_96_74.py</a></td>
+            <td><a >Fashion-MNIST</a></td>
+            <td><a >96.74%(epoch 785)</a></td>
+            <td></td>
+        </tr>
+
 </table>
